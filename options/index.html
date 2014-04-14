@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>JNote Options</title>
+	<link rel="stylesheet" href="/bootstrap/css/bootstrap.css" />
+	<link rel="stylesheet" href="/options/options.css" />
+	<script src="../core/jnote.js"></script>
+	<script src="../core/config.js"></script>
+</head>
+<body>
+	<div class="container">
+		<p class="lead">JNote Options Page</p>
+		<form action="">
+			<fieldset>
+				<hr />
+				<label class="checkbox">
+					<input id="enablePageAction" type="checkbox" />Enable Count Icon
+				</label>
+				<hr />
+				<label class="checkbox">
+					<input id="enableNotifications" type="checkbox" />Enable Notifications
+				</label>
+				<hr />
+				<label>Hide Delay</label>
+				<input id="delay" type="number" value="5000" step="100" min="0" />
+				<span class="help-block">
+					<small>How much time (in milliseconds) before the notification disappears</small>
+				</span>
+				<hr />
+				<label>Max Notifications</label>
+				<input id="maxNotes" type="number" value="3" step="1" min="0" />
+				<span class="help-block">
+					<small>How many notifications can be showing at once</small>
+					<br />
+					<small>(might also be effected by limitations set by Chrome or your OS)</small>
+				</span>
+			</fieldset>
+		</form>
+	</div>
+	<script src="options.js"></script>
+</body>
+</html>

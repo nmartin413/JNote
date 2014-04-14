@@ -1,0 +1,1781 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"close",
+				"closeNote"
+			],
+			[
+				"max",
+				"maxNotes"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"opt",
+				"options-link"
+			],
+			[
+				"t",
+				"typeSuffix"
+			],
+			[
+				"type",
+				"typePrefix"
+			],
+			[
+				"not",
+				"notifierType"
+			],
+			[
+				"note",
+				"noteId"
+			],
+			[
+				"clo",
+				"closeNote"
+			],
+			[
+				"noti",
+				"notificationId"
+			],
+			[
+				"nofi",
+				"notifierType"
+			],
+			[
+				"init",
+				"initDefaults"
+			],
+			[
+				"create",
+				"createNotificationId"
+			],
+			[
+				"re",
+				"refreshFallback"
+			],
+			[
+				"enable",
+				"enablePageAction"
+			],
+			[
+				"ena",
+				"enableNotifications"
+			],
+			[
+				"en",
+				"enablePageAction  (variable)"
+			],
+			[
+				"ean",
+				"enablePageAction  (variable)"
+			],
+			[
+				"enab",
+				"enableNotifications"
+			],
+			[
+				"ad",
+				"addEventListener  (function)"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius"
+			],
+			[
+				"ch",
+				"checkCurrent"
+			],
+			[
+				"text",
+				"textX"
+			],
+			[
+				"icon",
+				"iconText"
+			],
+			[
+				"page",
+				"pageAction"
+			],
+			[
+				"find",
+				"findWhere  (function)"
+			],
+			[
+				"on",
+				"onBeforeUnload"
+			],
+			[
+				"show",
+				"showNote"
+			],
+			[
+				"time",
+				"trimFile"
+			],
+			[
+				"creat",
+				"createNotification"
+			],
+			[
+				"file",
+				"fileShort"
+			],
+			[
+				"err",
+				"errorTable"
+			],
+			[
+				"tab",
+				"tabManager"
+			],
+			[
+				"c",
+				"clbk"
+			],
+			[
+				"line",
+				"lineNumber"
+			],
+			[
+				"add",
+				"addTab"
+			],
+			[
+				"ta",
+				"targetTab"
+			],
+			[
+				"tag",
+				"targetFn"
+			],
+			[
+				"b",
+				"blunder"
+			],
+			[
+				"cre",
+				"createPageFromTab"
+			],
+			[
+				"Err",
+				"ErrorCollection  (variable)"
+			],
+			[
+				"PAge",
+				"PageCollection"
+			],
+			[
+				"Page",
+				"PageCollection"
+			],
+			[
+				"mes",
+				"messageBackground"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Mes",
+				"MessageCollection"
+			],
+			[
+				"tog",
+				"toggleControlPanel"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"mesa",
+				"messageSpan"
+			],
+			[
+				"mess",
+				"messageSpan"
+			],
+			[
+				"error",
+				"errorView"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"devpa",
+				"devpages"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pa",
+				"pageSelectElement"
+			],
+			[
+				"meg",
+				"messageElement"
+			],
+			[
+				"title",
+				"titleElement"
+			],
+			[
+				"de",
+				"defaultOpts"
+			],
+			[
+				"firs",
+				"firstArg"
+			],
+			[
+				"man",
+				"manifestJSON"
+			],
+			[
+				"par",
+				"parseManifest"
+			],
+			[
+				"domain",
+				"domainText"
+			],
+			[
+				"d",
+				"devpages"
+			],
+			[
+				"domainTe",
+				"domainTextElement"
+			],
+			[
+				"set",
+				"setDomainText"
+			],
+			[
+				"load",
+				"loadManifest"
+			],
+			[
+				"query",
+				"queryParams"
+			],
+			[
+				"state",
+				"stateCountMap"
+			],
+			[
+				"met",
+				"mentalStates"
+			],
+			[
+				"sel",
+				"stateSelection"
+			],
+			[
+				"stat",
+				"stateButtonWrap"
+			],
+			[
+				"ment",
+				"mentalState"
+			],
+			[
+				"menta",
+				"mentalStates"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"fir",
+				"firstArg"
+			],
+			[
+				"app",
+				"appData"
+			],
+			[
+				"bro",
+				"broadcastContextUpdate"
+			],
+			[
+				"sub",
+				"subviews"
+			],
+			[
+				"su",
+				"subviews"
+			],
+			[
+				"n",
+				"negativeView"
+			],
+			[
+				"ne",
+				"neutralView"
+			],
+			[
+				"crea",
+				"createMentalOverview  (function)"
+			],
+			[
+				"all",
+				"allStateButtons"
+			],
+			[
+				"curr",
+				"currentState"
+			],
+			[
+				"group",
+				"groupedLinks"
+			],
+			[
+				"log",
+				"logPrefix"
+			],
+			[
+				"bind",
+				"bindStateButtons"
+			],
+			[
+				"ge",
+				"getLinkForSocket"
+			],
+			[
+				"update",
+				"updateSuffix"
+			],
+			[
+				"upda",
+				"updateViewsFromContext"
+			],
+			[
+				"conn",
+				"connectionView"
+			],
+			[
+				"list",
+				"listModelTemplate"
+			],
+			[
+				"first",
+				"firstCustomers"
+			],
+			[
+				"fi",
+				"firstCustomers"
+			],
+			[
+				"sort",
+				"sortViews"
+			],
+			[
+				"anim",
+				"animationEase"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"backgroun",
+				"background-clip"
+			],
+			[
+				"matc",
+				"matchString"
+			],
+			[
+				"play",
+				"playedCardView"
+			],
+			[
+				"Noun",
+				"NounDeck"
+			],
+			[
+				"Adjec",
+				"AdjectiveDeck"
+			],
+			[
+				"Adjective",
+				"AdjectiveCard"
+			],
+			[
+				"attirb",
+				"attributeElName"
+			],
+			[
+				"Obser",
+				"ObservableView"
+			],
+			[
+				"fun",
+				"functionName"
+			],
+			[
+				"FileMa",
+				"FileManagerView"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "options/options.js",
+			"settings":
+			{
+				"buffer_size": 877,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "options/index.html",
+			"settings":
+			{
+				"buffer_size": 1310,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "background.js",
+			"settings":
+			{
+				"buffer_size": 1079,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "notifiers/chrome.js",
+			"settings":
+			{
+				"buffer_size": 1264,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content.js",
+			"settings":
+			{
+				"buffer_size": 595,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/handlebars.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"header",
+				"Snippet: headerComment"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pdf",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"Project: Close"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 226.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/core/config.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/background.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/core/jnote.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/model/error.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/manifest.json",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/notifiers/webkit.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/notifiers/chrome.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/popups/pageAction.html",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/model/errorCollection.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/content.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/pageAction.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/error.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/test/index.html",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/test/test.js",
+		"/C/Working/TankLink2/Working/SupplyNetTankLink_WebApp/tanklist2/templates/filterPanel.handlebars",
+		"/C/Users/nmartin.ADAGE/Desktop/Docs/carnegieseattypes.xml",
+		"/C/Working/TankLink2/Working/SupplyNetTankLink_WebApp/tanklist2/templates/app.handlebars",
+		"/C/Working/TankLink2/Working/SupplyNetTankLink_WebApp/tanklist2/templates/reportConfig.handlebars",
+		"/C/Working/TankLink2/Working/SupplyNetTankLink_WebApp/tanklist2/templates/filterlist.handlebars",
+		"//glenview/working/LAOpera/Web - Mobile/controls/Reserve/HtmlSyosControl.ascx",
+		"/C/Working/CarnegieHall/working/CarnegieWeb/syos/templates/seatview.handlebars",
+		"/C/Working/TankLink2/Working/SupplyNetTankLink_WebApp/tanklist2/templates/reportsPanel.handlebars",
+		"/C/Users/nmartin.ADAGE/Downloads/font-awesome/font-awesome/css/font-awesome.css",
+		"/C/Users/nmartin.ADAGE/.forever/log",
+		"/C/Users/nmartin.ADAGE/Downloads/bootstrap (2)/bootstrap/css/bootstrap-responsive.css",
+		"/C/Users/nmartin.ADAGE/Downloads/bootstrap (2)/bootstrap/js/bootstrap.js",
+		"/C/Users/nmartin.ADAGE/Downloads/m-custom-scrollbar-plugin/custom-scrollbar-plugin/jquery.mCustomScrollbar.css",
+		"/C/Users/nmartin.ADAGE/Downloads/bootstrap (2)/bootstrap/css/bootstrap.css",
+		"/C/Working/eChipPortal/eChipPortal/api/controllers/HomeController.js",
+		"/C/Working/CarnegieHall/working/CarnegieWeb/js/js.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/config.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/options/options.css",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/options/options.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jNote/options/index.html",
+		"/C/Users/nmartin.ADAGE/Desktop/jNote/manifest.json",
+		"/C/Users/nmartin.ADAGE/Google Drive/jWomp/manifest.json",
+		"/C/Users/nmartin.ADAGE/Google Drive/jWomp/error.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jWomp/pageAction.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jWomp/background.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jWomp/content.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jWomp/model.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/jWomp/config.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/manifest.json",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/error.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/shared/collection.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/tabManager.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/popup/popup.html",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/renderer.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/popup/popup.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/app.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/templates/errorTable.handlebars",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/content.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/tab.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/background.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/templates/compile.bat",
+		"/C/Working/Adage.CDN/Adage.HtmlSyos/162/templates/compile.bat",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/popup/popup.css",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/shared/controller.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/shared/general.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/app/page.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/bg/app.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/bg/page.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/bg/Page.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/content.css",
+		"/C/Users/nmartin.ADAGE/Google Drive/SamError/pageView.js",
+		"/C/Working/TessituraAPI/working/Adage.Rowsy/js/templates/manageSegments.handlebars",
+		"/C/Working/TessituraAPI/working/Adage.Rowsy/js/templates/seatMapToggleView.handlebars",
+		"/C/Working/Adage.CDN/Adage.CDN/experiment/handlebars/default.htm",
+		"/C/Working/BSO/Bso.Web.UI.Cms/scripts/mediacenter/java/googleClosure.jar",
+		"/C/Working/BSO/Bso.Web.UI.Cms/scripts/mediacenter/js/lib/combined/buildflags.txt",
+		"/C/Working/BSO/Bso.Web.UI.Cms/scripts/mediacenter/js/lib/combined/compile.bat",
+		"/C/Working/BSO/Bso.Web.UI.Cms/scripts/mediacenter/js/closure/compile.bat",
+		"/C/Users/nmartin.ADAGE/Desktop/delete me/Roshan.txt",
+		"/C/Working/BSO/Bso.Web.UI.Cms/scripts/mediacenter/js/closure/buildflags.txt",
+		"/C/Working/Adage.CDN/Adage.HtmlSyos/162/templates/display.html",
+		"//lincoln/Working/BSO/WebApp/Views/MediaCenter/Default.aspx",
+		"/C/Users/nmartin.ADAGE/Desktop/nicolasmartinjs.txt",
+		"/C/Users/nmartin.ADAGE/Desktop/Nicolas Martin.js",
+		"/C/Working/SamError/manifest.json",
+		"/C/Working/SamError/content.js",
+		"/C/Working/SamError/background.js",
+		"//glenview/Working/LAOpera/Web - Mobile/js/app/reserveControl/reserveControl.js",
+		"/C/Working/AdageChromePlugin/js/app.js",
+		"/C/Working/AdageChromePlugin/js/main.js",
+		"/C/Working/AdageChromePlugin/js/message.js",
+		"/C/Working/AdageChromePlugin/js/lib/backbone.js",
+		"/C/Working/AdageChromePlugin/js/lib/message.js",
+		"/C/Working/AdageChromePlugin/index.html",
+		"/C/Working/AdageChrome/api/models/Message.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/js/model/context.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/js/app.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/js/main.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/index.html",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/bg/index.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/manifest.json",
+		"/C/Working/TankLink2/Working/SupplyNetTankLink_WebApp/tanklist2/templates/optionspanel.handlebars",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/js/base.js",
+		"/C/Users/nmartin.ADAGE/AppData/Roaming/Sublime Text 2/Packages/User/bbnamespace.sublime-snippet",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/lib/jquery.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/lib/head.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/lib/underscore.js",
+		"/C/Users/nmartin.ADAGE/Google Drive/Perfi/lib/backbone.js",
+		"/C/Working/DevPages/manifest.json",
+		"/C/Users/nmartin.ADAGE/Downloads/manifest.json",
+		"/C/Working/SailsBackgrid/api/models/Order.js",
+		"/C/Working/SailsBackgrid/public/js/model.js",
+		"/C/Working/SailsBackgrid/views/layout.ejs",
+		"/C/Working/BackgridExample/BackgridExample/json/data.txt",
+		"/C/Working/SailsBackgrid/api/controllers/OrderController.js",
+		"/C/Working/SailsBackgrid/public/js/index.js",
+		"/C/Working/SailsBackgrid/views/home/index.ejs",
+		"/C/Working/SailsBackgrid/assets/js/app.js",
+		"/C/Working/SailsBackgrid/assets/js/underscore.js",
+		"/C/Working/SailsBackgrid/assets/js/backbone.js",
+		"/C/Working/SailsBackgrid/assets/js/jquery.js",
+		"/C/Working/SailsBackgrid/assets/styles/bootstrap.css",
+		"/C/Users/nmartin.ADAGE/Downloads/bootstrap/css/bootstrap.css",
+		"/C/Working/DevPages/index.html",
+		"/C/Working/Adage.CDN/Adage.HtmlSyos/devPagesManifest.json",
+		"/C/Working/UtilityPages/js/main.js",
+		"/C/Working/UtilityPages/js/app.js",
+		"/C/Working/UtilityPages/css/custom.css",
+		"/C/Working/UtilityPages/js/rootView.js",
+		"/C/Working/UtilityPages/index.html",
+		"/C/Working/UtilityPages/js/errorView.js",
+		"/C/Working/UtilityPages/js/view.js",
+		"/C/Working/TessituraAPI/working/Adage.Rowsy/js/templates/manageSeatMaps.handlebars",
+		"/C/Working/UtilityPages/js/controlPanel.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"maxCount",
+			"currentNotes",
+			"	self.",
+			"	function ",
+			"	self.",
+			"self.",
+			"	function ",
+			"downers",
+			"        <td>",
+			"        <th>\n",
+			"            <td>",
+			"0:",
+			"laopera",
+			"status_",
+			":",
+			"//",
+			"EnumPriority",
+			"EnumDisplay",
+			"EnumValue",
+			":",
+			"//",
+			"EnumPriority",
+			"EnumValue",
+			"//",
+			"cdn",
+			"live",
+			").live(",
+			"section",
+			"38",
+			"el.",
+			"El",
+			"el",
+			"pageIdentifier",
+			"query",
+			"activeNotifications",
+			"tabs",
+			"message",
+			"removeTab",
+			"tabManager",
+			"    	",
+			"ol",
+			"ul",
+			"p>",
+			"p",
+			"h4",
+			"        <p>",
+			"h3",
+			"laopera",
+			"\n",
+			"../app",
+			"/app",
+			"js..",
+			"<script src=\"/scripts/mediacenter/",
+			"        ",
+			"app/",
+			"\"",
+			",",
+			".",
+			",",
+			" ",
+			"Perfi",
+			":,",
+			"240",
+			"code",
+			"mainView",
+			"th>",
+			"th",
+			"255",
+			"            label",
+			"domainText",
+			"DomainText",
+			"domainText",
+			"didChangePageSelection",
+			"strong",
+			"span",
+			"utility",
+			"getStateButtonForValue",
+			"markup",
+			"forge",
+			"ns.",
+			"ctrl+p",
+			"p",
+			"brainTank",
+			";\n",
+			"brainTank",
+			"app",
+			"BTConnection",
+			"btConnection",
+			"span",
+			"span3",
+			"span6",
+			"h2",
+			"<script src=",
+			"png",
+			"ft\",",
+			"\",",
+			"\"LogicalSeatNumber\"",
+			"\"LogicalSeatRow\"",
+			"\"AllocationNumber\"",
+			"\"Status\"",
+			"div",
+			"../",
+			"      \"",
+			"\"ShipPostalCode\"",
+			"\"ContactName\"",
+			"\"PostalCode\"",
+			"\"Phone\"",
+			"small>",
+			"\"span1\"",
+			"span1",
+			"opt",
+			"$rootnamespace$",
+			"{",
+			"safeprojectname",
+			"rootnamespace",
+			"-syos-",
+			"popup-",
+			"ActiveSeat",
+			",",
+			"Alan, Alex, MoZ, Andres, Austine, Becca, Brandon, Brian, Caitlin, Candace, Caryn, Chaz, Chris Magee, Claire, Craig, Chris Feo, Damian, Daniel Enders, David Boland, David Henry, Derrick, Glenn, Huiyuan, Ian, Jake, Sharpie, Crusty, Johny, Juan, Julianne, Kehan, Kevin, Martyna, Mat, Mike Clark, Mike Kovach, Natalie, Nichole, Nick, Pat, Phill, Richelle, Roshan, Roy, Russ, Sam, Sarah, Victoria, Watson, William, Zach",
+			"slide",
+			"toolbarg",
+			"useiis",
+			"iis",
+			"documentBaseUrl",
+			"settings",
+			"\\r",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "options/options.js",
+					"settings":
+					{
+						"buffer_size": 877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "options/index.html",
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "background.js",
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "notifiers/chrome.js",
+					"settings":
+					{
+						"buffer_size": 1264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content.js",
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"man",
+				"manifest.json"
+			],
+			[
+				"tab",
+				"app/tabManager.js"
+			],
+			[
+				"popu",
+				"popup/popup.html"
+			],
+			[
+				"app",
+				"app/app.js"
+			],
+			[
+				"render",
+				"app/renderer.js"
+			],
+			[
+				"mani",
+				"manifest.json"
+			],
+			[
+				"ta",
+				"app/tab.js"
+			],
+			[
+				"cont",
+				"content.js"
+			],
+			[
+				"back",
+				"background.js"
+			],
+			[
+				"page",
+				"app/page.js"
+			],
+			[
+				"pa",
+				"app/page.js"
+			],
+			[
+				"bac",
+				"background.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"menta",
+				"data/mentalStates.json"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"run",
+				"public/js/run.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
